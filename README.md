@@ -30,7 +30,9 @@
 ## Connect with Me
 - 📫 Email: [mohimreza1234@gmail.com](mailto:mohimreza1234@gmail.com)  
 - 🌐 GitHub: [https://github.com/Md-Mohimul-Alam](https://github.com/Md-Mohimul-Alam)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/md-mohimul-alam/](https://www.linkedin.com/in/md-mohimul-alam/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/md-mohimul-alam/](https://www.linkedin.com/in/md-mohimul-alam/)
+- [![My Credly Badge](https://credly‑badge‑image‑url.png)](https://www.credly.com/users/mohim-reza/badges)
+
 
 ---
 

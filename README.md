@@ -24,6 +24,7 @@
 - **E-commerce Dashboard & UI Projects:** Built dynamic, responsive dashboards with React and Nuxt.js, including state management and interactive components.  
 - **Real-Time Patient Health Monitoring (Research):** Developed an IoT + Blockchain-based system for secure patient data monitoring and management.  
 - **Portfolio:** [GitHub Projects](https://github.com/Md-Mohimul-Alam)  
+- Portfolio: https://mohim-portfolio.netlify.app/
 
 ---
 
